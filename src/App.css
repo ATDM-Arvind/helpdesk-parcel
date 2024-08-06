@@ -1,0 +1,20 @@
+#window {
+  border-style: solid;
+  border-color: gray;
+  box-shadow: 1px 1px gray;
+  background-color: white;
+  width: 300px;
+  height: 400px;
+  padding: 20px;
+}
+
+#highlight {
+  font-size: 20px;
+  color: darkslategray;
+  font-weight: 500;
+}
+.buttonContainer { 
+  width:100%;
+  display:flex;
+  justify-content:end
+}
